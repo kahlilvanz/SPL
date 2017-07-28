@@ -7,6 +7,7 @@ namespace ConsoleApplication1
 {
     class Laptops
     {
+
         private string lenovobrand = "Lenovo";
         private string lenovoprice = "$1300";
         private string lenovoprocessor = "i3";
